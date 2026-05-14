@@ -1,0 +1,16 @@
+8.1.
+IdKlienta	Imie	Nazwisko	PoliczOfIdTransakcji
+2041	Marcelino	Kruk	8
+
+8.2.
+Plec	PoliczOfIdKlienta
+K	689
+M	651
+
+8.3.
+28 sklepów
+Łącznie zapłacono: 2395,92
+
+8.4.
+IdSprzedawcy	Mc	PoliczOfIdSklepu
+14	1	3

@@ -1,0 +1,7 @@
+4.2. 
+ilosc pracownikow, ktorzy nie sa przelozonymi: 25113
+4.3. 
+Najczęstszy: [(2, 19)]
+4.4. 
+najwiecej przelozonych to: 22 ma tylu przelozonych: 2 pracownikow
+
