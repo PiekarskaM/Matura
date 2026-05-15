@@ -10,7 +10,7 @@ def A(m,n):
     elif n > 1 and n%2==0:
         return A(2*m,n//2)
     elif n > 1 and n%2==1:
-        return A(m,(n-1)//2)
+        return 2*A(m,(n-1)//2)
 
 licznik = 0
 A(3,7)

@@ -1,16 +1,17 @@
 7.1.
-sty	33,6
-lut	115,9
-mar	125,7
-kwi	221,1
-maj	491,8
-cze	614,6
-lip	632,2
-sie	655,1
-wrz	410,1
-paź	386,8
-lis	156,0
-gru	49,3
+sty	1,1
+lut	4,1
+mar	4,1
+kwi	7,4
+maj	15,9
+cze	20,5
+lip	20,4
+sie	21,1
+wrz	13,7
+paź	12,5
+lis	5,2
+gru	1,6
+
 
 7.2.
 1	11
